@@ -1,4 +1,6 @@
-### Hi there 👋
+# About Me
+
+I'm a NetSec engineer working to better understand security's role in the current landscape of developers.
 
 <!--
 **arcsector/arcsector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
