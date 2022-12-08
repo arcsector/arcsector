@@ -4,6 +4,8 @@ I'm a NetSec engineer working to better understand security's role in the curren
 
 ![Arcsector's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcsector&show_icons=true&theme=outrun)
 
+![Arcsector's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arcsector&layout=compact&theme=outrun)
+
 <!--
 **arcsector/arcsector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
