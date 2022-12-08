@@ -1,6 +1,8 @@
 # About Me
 
-I'm a NetSec engineer working to better understand security's role in the current landscape of developers.
+I'm a NetSec engineer working to better understand security's role in the current landscape of developers. I am extremely active in open source and am constantly looking for ways to help make contributions to projects, as well as find new niches for everything.
+
+![Arcsector's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcsector&show_icons=true&theme=outrun)
 
 <!--
 **arcsector/arcsector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
