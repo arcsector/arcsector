@@ -1,6 +1,6 @@
 # About Me
 
-I'm a NetSec engineer working to better understand security's role in the current landscape of developers. I am extremely active in open source and am constantly looking for ways to help make contributions to projects, as well as find new niches for everything. Here are my [most-starred projects](https://github.com/arcsector?tab=repositories&q=&type=&language=&sort=stargazers), and below are my contributions in order of severity:
+I'm a CyberSecurity Engineer working to better understand security's role in the current landscape of developers. I am extremely active in open source and am constantly looking for ways to help and contribute to projects, as well as find new niches for everything. Here are my [most-starred projects](https://github.com/arcsector?tab=repositories&q=&type=&language=&sort=stargazers), and below are my contributions in order of severity:
 
 - [Cribl Vision (Pioneer)](https://github.com/criblio/criblvision?tab=readme-ov-file#about)
 - List of Contributions:
